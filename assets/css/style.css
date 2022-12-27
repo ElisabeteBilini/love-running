@@ -243,7 +243,6 @@ footer{
 
 #photos > img{
     width: 100%;
-
 }
 
 /* media queries */
@@ -286,7 +285,7 @@ footer{
 }
 
 /* For medium screens size from 950px wide and down*/
-@media screen and (,ax-width: 950px){
+@media screen and (max-width: 950px){
 
     #menu {
         clear:left;
